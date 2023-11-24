@@ -1,5 +1,5 @@
 # attack_the_picture
-use fsgm or ifsgm or pdg to attack the picture
+use fsgm or ifsgm or pgd to attack the picture
 
 #use the cifar-10 to train
 
